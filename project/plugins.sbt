@@ -1,0 +1,1 @@
+addSbtPlugin("org.uqbar" % "sbt-uqbar-project" % "0.0.1")
